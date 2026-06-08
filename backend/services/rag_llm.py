@@ -93,5 +93,5 @@ question_10 = "What technical skills do you have ? and does he know anything abo
 question_11 = "Do you know anything about Tensorflow or PyTorch ?"
 question_12 = "What do you do for a living ?"
 question_13 = "Do you know about LangGaph ? Have you developed any agentic AI project using LangGraph ?"
-print(rag_chain.invoke(question_8 + question_9 + question_13))
+print(rag_chain.invoke(question_8 + question_9 + question_12))
 
