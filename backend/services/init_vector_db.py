@@ -37,6 +37,7 @@ def build_fixed_vector_store():
     print(f"[ - ] Pushing {len(chunks)} chunks to FIASS vector store...")
     vector_store = FAISS.from_documents(documents=chunks, embedding=embeddings)
     # saving the vector db data locally
+    vector_store.save_local("faiss_rag_index")
     vector_store.save_local("../faiss_rag_index")
 
     ##

@@ -5,7 +5,7 @@ langchain-community
 langchain-pinecone
 langchain-huggingface
 langchain_faiss
-faiss
+faiss-cpu
 pypdf
 python-dotenv
 python-multipart

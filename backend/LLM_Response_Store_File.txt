@@ -106,3 +106,123 @@ Hydra is a framework for building complex, multi-service applications. It is des
 3. Familiarity with nodes, edges, and conditional edges for creating self-correcting, autonomous agents using LangGraph.
 
 
+## what is your name ? What skills do you have ?
+	 - My name is not provided in the context, but I can discuss my skills. I have a strong background in full stack web development and the ability to integrate AI capabilities into web products. My key skills include proficiency in Python, C, C++, and Java, with a good command over Django, React, and FastAPI. I also have experience in automating repetitive tasks using Python scripts.
+
+
+## what is your name ? What do you do for a living ?
+	 - My name is Darwin Jolly, and I am a Full Stack Web Developer with a passion for integrating AI capabilities into web products.
+
+
+## what is your name ? What do you do for a living ?
+	 - My name is Darwin Jolly, and I am a Full Stack Web Developer with a passion for integrating AI capabilities into web products.
+
+
+## what is your name ? Who is chief minister of Bihar ?
+	 - My name is Darwin Jolly. I'm sorry, I can only answer questions that are related to me.
+
+
+## what is your name ? What do you do for a living ?
+	 - My name is Darwin Jolly, and I am a Full Stack Web Developer with a passion for integrating AI capabilities into web products.
+
+
+## what is your name ? Do you have any work experience ?
+	 - My name is Darwin Jolly. Yes, I do have work experience. I served as a Backup Support Engineer for two years at XYZ Solutions in Gurgaon, Haryana.
+
+
+## what is your name ? Where does the largest population of tigers live ?
+	 - My name is Darwin Jolly. The largest population of tigers lives in India.
+
+
+## what is your name ? How many planets do we have in our solar system ?
+	 - My name is Darwin Jolly. According to current astronomical knowledge, we have eight planets in our solar system.
+
+
+## what is your name ? How many planets do we have in our solar system ?
+	 - My name is Darwin Jolly. According to current scientific understanding, we have eight planets in our solar system.
+
+
+## what is your name ? How many planets do we have in our solar system ?
+	 - My name is Darwin Jolly. According to current scientific understanding, we have eight planets in our solar system.
+
+
+## what is your name ? How many planets do we have in our solar system ?
+	 - My name is Darwin Jolly. According to current scientific understanding, we have eight planets in our solar system.
+
+
+## what is your name ? What do you do for a living ?
+	 - My name is Darwin Jolly. I am a Full Stack Web Developer with a focus on integrating AI capabilities into web products.
+
+
+## wha is a tiger?
+	 - I do not know this.
+
+
+## what is your name ?
+	 - My name is Darwin Jolly.
+
+
+## what is your name ? Where does the largest population of the tigers live ?
+	 - My name is Darwin Jolly. The largest population of tigers lives in India.
+
+
+## what is your name ? Where does the largest population of the tigers live ?
+	 - My name is Darwin Jolly. The largest population of tigers lives in India.
+
+
+## what is your name ? Where does the largest population of the tigers live ?
+	 - My name is Darwin Jolly. Sorry, I can only answer questions that are related to me.
+
+
+## what is your name ? Where does the largest population of the tigers live ?
+	 - My name is Darwin Jolly. The largest population of tigers lives in India. Sorry, I can only answer questions that are related to me.
+
+
+## what is your name ? Where does the largest population of the tigers live ?
+	 - My name is Darwin Jolly. The largest population of tigers lives in India. Sorry, I can only answer questions that are related to me.
+
+
+## what is your name ? Where does the largest population of the tigers live ? Do you have any work experience ?
+	 - My name is Darwin Jolly. The largest population of tigers lives in India. Regarding my work experience, I have worked as a Backup Support Engineer for 2 years at XYZ Solutions in Gurgaon, Haryana.
+
+
+## what is your name ? Where does the largest population of the tigers live ?
+	 - My name is Darwin Jolly. 
+
+Sorry, I cannot answer this part of the question as I can only provide answers that are related to me.
+
+
+## what is your name ? Where does the largest population of the tigers live ? DO you have any work experience ?
+	 - My name is Darwin Jolly. The largest population of tigers lives in India. I have work experience as a Backup Support Engineer at XYZ Solutions in Gurgaon, Haryana for 2 years.
+
+
+## what is your citizen ship ? What is the price of the petrol these days ? Do you know about AI applications ?
+	 - What is your citizenship?  
+United States
+
+Sorry, I cannot answer this part of the question "What is the price of the petrol these days?" as I can only provide answers that are related to me.
+
+Do you know about AI applications?  
+Yes, I am familiar with AI applications and have experience integrating AI capabilities into web products. I have worked with technologies like Python, Django, React, FastAPI, Django Rest Framework, and libraries such as LangChain, Numpy, and Pandas to develop AI-powered applications.
+
+
+## what is your citizen ship ? What is the price of the petrol these days ? Do you know about AI applications ?
+	 - My citizenship is United States. Sorry, I cannot answer this part of the question: What is the price of the petrol these days, as I can only provide you information about myself. Thank you. I do have knowledge about AI applications, particularly in the context of developing AI-powered web applications.
+
+
+## what is your citizen ship ? What is the price of the petrol these days ? Do you know about GenAI applications ?
+	 - My citizenship is United States. Sorry, I can only provide you information about myself.
+
+
+## Have you made any projects ? Will it rain today ? Which country do you below to ?
+	 - Yes, I have made projects. For instance, I developed an Online Compiler project using technologies like Python, Django, HTML5, CSS3, JavaScript, and jQuery. Additionally, I worked on a Question Paper Analysis project using Python, LangChain, FastAPI, React, and Pinecone.
+
+Sorry, I cannot answer this part of the question as I can only provide answers that are related to me.
+
+Sorry, I can only provide you information about myself. For any additional question, please follow this link - [You contact website from provided context].
+
+
+## how can i contact you ?
+	 - Sorry, I can only answer questions that are related to me. For contact information, please visit my contact website: [https://www.qnotes23.pythonanywhere.com/guest_mode/](https://www.qnotes23.pythonanywhere.com/guest_mode/)
+
+
