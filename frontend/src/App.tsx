@@ -27,19 +27,19 @@ function App() {
 	return (
 		<>
 			{/* Main Outermost container */}
-			<div className='h-dvh w-full flex flex-row overflow-hidden bg-slate-500 bg-slate-500'>
+			<div className='min-h-dvh w-full flex flex-row overflow-hidden bg-slate-500 bg-slate-500'>
 				{/* Sidebar section */}
-				<Sidebar />
+					<Sidebar className='w-fit' />
 
 				{/* Main Dynamic App Area on right */}
-				<div className='grow flex flex-col gap-2 items-center justify-center  rounded-xl border border-red-300 '>
+				<div className='flex-1 min-h-screen flex flex-col gap-4 items-center justify-start rounded-xl border-2 border-red-300 '>
 
-					<div className='pt-3'>
+					<div className='flex-shrink-0 pt-3'>
 						<Navbar />
 					</div>
 					
-					<main className='grow flex justify-center items-center'>
-						<div className='grow'>
+					<main className='flex-1 flex justify-center items-center'>
+						<div>
 							<Routes location={location}  key={location.pathname}>
 								{/* ------- Mapping Routes and Framer Animation to each route using Loop ------- */}
 								{navbarItems.map((item: MenuItems) => (

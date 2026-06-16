@@ -1,13 +1,19 @@
 import { useScreenSize } from "../hooks/useWindowSize";
 
 
-function Sidebar() {
+// interface to accept className property from App.tsx
+interface SidebarProps {
+	className?: string;		//  (?:) means this prop is optional. It is NOT ternary operators syntax. It is reserved Typescript syntax.
+}
+
+
+function Sidebar({ className='' }: SidebarProps) {
 	
 	const { width, height } = useScreenSize();
 	
 	return (
 		<>
-			<div className="h-screen w-[20%] shadow-md">
+			<div className={`min-h-screen shadow-lg ${className}`}>
 			
 				<span>Sidebar Section</span>  <br />
 				
