@@ -9,9 +9,7 @@ app = FastAPI(title='Rag-Me-Knowme API Endpoint', description='API Endpoint for 
 # setting up CORS middlwwares
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "https://obscure-bassoon-gx4gr6x56v9qcvrv4-5173.app.github.dev/"
-    ],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

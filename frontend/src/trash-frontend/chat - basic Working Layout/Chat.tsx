@@ -24,7 +24,7 @@ export default function Chat(): React.JSX.Element {
 
     try {
       // 2. Fire the network API request
-      const response = await fetch('https://obscure-bassoon-gx4gr6x56v9qcvrv4-8000.app.github.dev/api/chat', {
+      const response = await fetch('http://127.0.0', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ question: userText }),

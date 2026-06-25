@@ -1,7 +1,8 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from validators.api_validator import ChatRequest
-from services.rag_llm import query_chain
+# from services.rag_llm import query_chain
+from services.rag_llm import conversational_rag_chain
 
 
 app = FastAPI(title='Rag-Me-Knowme API Endpoint', description='API Endpoint for Rag-Me AI Web App')
@@ -9,9 +10,7 @@ app = FastAPI(title='Rag-Me-Knowme API Endpoint', description='API Endpoint for 
 # setting up CORS middlwwares
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "https://obscure-bassoon-gx4gr6x56v9qcvrv4-5173.app.github.dev/"
-    ],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -42,7 +41,15 @@ async def chat_endpoint(request: ChatRequest):
         print("[ - ] Finallly printing the LLM response from FastAPI function...")
         # print("[ - ] LLM Response:\n", llm_response)
         # llm_response = query_chain.invoke("Tell me about yourself.")
-        llm_response = query_chain.invoke(str(request.question))
+        # llm_response = query_chain.invoke(str(request.question))
+
+        result = conversational_rag_chain.invoke(
+            {"input": str(request.question)},
+            config={"configurable": {"session_id": request.session_id}}
+        )
+
+        llm_response = result["answer"]
+
 
         # saving the llm response to a text file locally
         try:

@@ -1,6 +1,7 @@
 // import { useScreenSize } from './components/hooks/useWindowSize';
 import Sidebar from './components/pages/Sidebar';
 import Navbar from './components/pages/Navbar';
+// import ChatBox from './components/pages/ChatBox';
 import Chat from './components/pages/chat/Chat';
 //import Hero from './components/pages/Hero';
 //import Footer from './components/pages/Footer'; 
@@ -28,7 +29,7 @@ function App() {
 		<>
 			{/* Main Outermost container */}
 			{/* ------- "min-h-screen" for scrollable page -------- */}
-			<div className='h-dvh w-full flex flex-row overflow-hidden bg-slate-500 bg-slate-500'>
+			<div className='min-h-dvh w-full flex flex-row overflow-hidden bg-slate-500 bg-slate-500'>
 				{/* Sidebar section */}
 					<Sidebar className='w-fit hidden sm:block' />
 
@@ -40,7 +41,7 @@ function App() {
 					</div>
 					
 					<main className='flex-1 flex justify-center items-center border-2 border-yellow-300'>
-						<div>
+							<div>
 								<AnimatePresence mode='wait'>
 										<Routes location={location}  key={location.pathname}>
 											{/* ------- Mapping Routes and Framer Animation to each route using Loop ------- */}
@@ -78,12 +79,13 @@ function App() {
 											<Route path="/projects"  element={<Projects />} /> */}
 										</Routes>
 								</AnimatePresence>
-						</div>
+							</div>
 					</main>
 					
 						{/* Chat Section (Fixed) */}
 					<div className='flex-1 w-[80%] border-2'>
-						<Chat />
+							<Chat />
+							{/* <ChatBox /> */}
 					</div>
 					
 				</div>

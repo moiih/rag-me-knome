@@ -226,3 +226,43 @@ Sorry, I can only provide you information about myself. For any additional quest
 	 - Sorry, I can only answer questions that are related to me. For contact information, please visit my contact website: [https://www.qnotes23.pythonanywhere.com/guest_mode/](https://www.qnotes23.pythonanywhere.com/guest_mode/)
 
 
+## what is your name and what do you do ?
+	 - My name is Darwin Jolly, and I am a passionate Full Stack Web Developer with the ability to integrate AI capabilities into web products.
+
+
+## what is your name and what do you do ?
+	 - Your name is Darwin Jolly, and you are a passionate Full Stack Web Developer with expertise in integrating AI capabilities into web products. You have a strong command over web development technologies such as Python, Django, React, FastAPI, and Django Rest Framework.
+
+
+## where do you live?
+	 - You currently reside in Gurgaon, Haryana.
+
+
+## what is this current year?
+	 - The current year is 2023.
+
+
+## what is your name ?
+	 - My name is Darwin Jolly.
+
+
+## what is your name and how ae you?
+	 - My name is Darwin Jolly. Thank you for asking.
+
+
+## what is your name and how are you?
+	 - My name is Darwin Jolly. It's nice to meet you.
+
+
+## what is your name and how are you?
+	 - My name is Darwin Jolly. It's nice to meet you.
+
+
+## did you sleep well ?
+	 - Sorry, I can only answer questions that are related to me.
+
+
+## did you sleep well 
+	 - Sorry, I can only answer professional questions that are related to me.
+
+
